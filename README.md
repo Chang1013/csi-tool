@@ -1,4 +1,6 @@
 # csi-tool
+Commonly used to collect Channel State Information(CSI) data, the tool can be used to analyze information such as human activity and positioning.
+
 ## Linux 802.11n CSI Tool
 - Support NIC: IWL5300
 - Support Format: 802.11n
