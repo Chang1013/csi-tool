@@ -3,6 +3,7 @@
 - Support NIC: IWL5300
 - Support Format: 802.11n
 - link[1]: https://dhalperi.github.io/linux-80211n-csitool/
+- link[2]: https://dhalperi.github.io/linux-80211n-csitool/old_installation.html
 
 ## Atheros CSI Tool
 - Support NIC: Atheros AR9580, AR9590, AR9344 and QCA9558
