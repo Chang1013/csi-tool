@@ -1,6 +1,12 @@
 # csi-tool
+## Linux 802.11n CSI Tool
+- Support NIC: IWL5300
+- Support Format: 802.11n
+-link[1]: https://dhalperi.github.io/linux-80211n-csitool/
 
 ## Atheros CSI Tool
+- Support NIC: Atheros AR9580, AR9590, AR9344 and QCA9558
+- Support Format: 802.11n
 - link[1]: https://wands.sg/research/wifi/AtherosCSI/
 - link[2]: https://github.com/xieyaxiongfly/Atheros-CSI-Tool/tree/master
   
